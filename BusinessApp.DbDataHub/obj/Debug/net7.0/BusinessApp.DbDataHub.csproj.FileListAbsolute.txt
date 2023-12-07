@@ -1,0 +1,17 @@
+F:\BusinessApplication\BusinessApp.DbDataHub\bin\Debug\net7.0\BusinessApp.DbDataHub.deps.json
+F:\BusinessApplication\BusinessApp.DbDataHub\bin\Debug\net7.0\BusinessApp.DbDataHub.runtimeconfig.json
+F:\BusinessApplication\BusinessApp.DbDataHub\bin\Debug\net7.0\BusinessApp.DbDataHub.dll
+F:\BusinessApplication\BusinessApp.DbDataHub\bin\Debug\net7.0\BusinessApp.DbDataHub.pdb
+F:\BusinessApplication\BusinessApp.DbDataHub\bin\Debug\net7.0\Business.Models.dll
+F:\BusinessApplication\BusinessApp.DbDataHub\bin\Debug\net7.0\Business.Models.pdb
+F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.csproj.AssemblyReference.cache
+F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.GeneratedMSBuildEditorConfig.editorconfig
+F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.AssemblyInfoInputs.cache
+F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.AssemblyInfo.cs
+F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.csproj.CoreCompileInputs.cache
+F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.csproj.CopyComplete
+F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.dll
+F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\refint\BusinessApp.DbDataHub.dll
+F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.pdb
+F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.genruntimeconfig.cache
+F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\ref\BusinessApp.DbDataHub.dll

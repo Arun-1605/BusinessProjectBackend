@@ -1,0 +1,12 @@
+F:\BusinessApplication\BusinessApp.XLDataHub\bin\Debug\net7.0\BusinessApp.XLDataHub.deps.json
+F:\BusinessApplication\BusinessApp.XLDataHub\bin\Debug\net7.0\BusinessApp.XLDataHub.dll
+F:\BusinessApplication\BusinessApp.XLDataHub\bin\Debug\net7.0\BusinessApp.XLDataHub.pdb
+F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.csproj.AssemblyReference.cache
+F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.GeneratedMSBuildEditorConfig.editorconfig
+F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.AssemblyInfoInputs.cache
+F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.AssemblyInfo.cs
+F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.csproj.CoreCompileInputs.cache
+F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.dll
+F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\refint\BusinessApp.XLDataHub.dll
+F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.pdb
+F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\ref\BusinessApp.XLDataHub.dll
