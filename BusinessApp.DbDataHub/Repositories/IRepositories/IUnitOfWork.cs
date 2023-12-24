@@ -10,6 +10,10 @@ namespace BusinessApp.DbDataHub.Repositories.IRepositories
 	{
 		IBusinessCategoryRepository BusinessCategory { get; }
 
-		void Save();
+        IBusinessDetailsRepository BusinessDetails { get; }
+
+		IBusinessRepository Business { get; }
+
+        void Save();
 	}
 }

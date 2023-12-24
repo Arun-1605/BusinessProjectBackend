@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BusinessApp.DbDataHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3062aeae9c11c2e7cb0f7ba20d39630a0a7b1274")]
 [assembly: System.Reflection.AssemblyProductAttribute("BusinessApp.DbDataHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BusinessApp.DbDataHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace BusinessApp.DbDataHub.Migrations
 {
     /// <inheritdoc />
-    public partial class s : Migration
+    public partial class a : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -93,7 +93,7 @@ namespace BusinessApp.DbDataHub.Migrations
                         column: x => x.BusinessCategoryId,
                         principalTable: "BusinessCategory",
                         principalColumn: "BusinessCategoryId",
-                        onDelete: ReferentialAction.Cascade);
+                        onDelete: ReferentialAction.Restrict);
                     table.ForeignKey(
                         name: "FK_BusinessDetails_Business_BusinessId",
                         column: x => x.BusinessId,
@@ -119,7 +119,7 @@ namespace BusinessApp.DbDataHub.Migrations
                         column: x => x.BusinessdetailId,
                         principalTable: "BusinessDetails",
                         principalColumn: "BusinessDetailId",
-                        onDelete: ReferentialAction.NoAction);
+                        onDelete: ReferentialAction.Restrict);
                 });
 
             migrationBuilder.CreateIndex(

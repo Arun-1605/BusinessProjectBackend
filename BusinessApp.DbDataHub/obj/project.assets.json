@@ -2901,23 +2901,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\91805\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Arun8\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\BusinessApplication\\Backend\\BusinessApp.DbDataHub\\BusinessApp.DbDataHub.csproj",
+      "projectUniqueName": "D:\\Business Project Backend\\Backend\\BusinessApp.DbDataHub\\BusinessApp.DbDataHub.csproj",
       "projectName": "BusinessApp.DbDataHub",
-      "projectPath": "F:\\BusinessApplication\\Backend\\BusinessApp.DbDataHub\\BusinessApp.DbDataHub.csproj",
-      "packagesPath": "C:\\Users\\91805\\.nuget\\packages\\",
-      "outputPath": "F:\\BusinessApplication\\Backend\\BusinessApp.DbDataHub\\obj\\",
+      "projectPath": "D:\\Business Project Backend\\Backend\\BusinessApp.DbDataHub\\BusinessApp.DbDataHub.csproj",
+      "packagesPath": "C:\\Users\\Arun8\\.nuget\\packages\\",
+      "outputPath": "D:\\Business Project Backend\\Backend\\BusinessApp.DbDataHub\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\91805\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Arun8\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2931,8 +2927,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\BusinessApplication\\Backend\\Business.Models\\Business.Models.csproj": {
-              "projectPath": "F:\\BusinessApplication\\Backend\\Business.Models\\Business.Models.csproj"
+            "D:\\Business Project Backend\\Backend\\Business.Models\\Business.Models.csproj": {
+              "projectPath": "D:\\Business Project Backend\\Backend\\Business.Models\\Business.Models.csproj"
             }
           }
         }
@@ -2978,7 +2974,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.114\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

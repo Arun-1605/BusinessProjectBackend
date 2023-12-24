@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Business.Models
-build_property.ProjectDir = F:\BusinessApplication\Backend\Business.Models\
+build_property.ProjectDir = D:\Business Project Backend\Backend\Business.Models\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

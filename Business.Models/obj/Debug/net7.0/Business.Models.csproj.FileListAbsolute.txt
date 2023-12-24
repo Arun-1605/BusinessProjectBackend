@@ -10,3 +10,15 @@ F:\BusinessApplication\Business.Models\obj\Debug\net7.0\Business.Models.dll
 F:\BusinessApplication\Business.Models\obj\Debug\net7.0\refint\Business.Models.dll
 F:\BusinessApplication\Business.Models\obj\Debug\net7.0\Business.Models.pdb
 F:\BusinessApplication\Business.Models\obj\Debug\net7.0\ref\Business.Models.dll
+D:\Business Project Backend\Backend\Business.Models\bin\Debug\net7.0\Business.Models.deps.json
+D:\Business Project Backend\Backend\Business.Models\bin\Debug\net7.0\Business.Models.dll
+D:\Business Project Backend\Backend\Business.Models\bin\Debug\net7.0\Business.Models.pdb
+D:\Business Project Backend\Backend\Business.Models\obj\Debug\net7.0\Business.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Project Backend\Backend\Business.Models\obj\Debug\net7.0\Business.Models.AssemblyInfoInputs.cache
+D:\Business Project Backend\Backend\Business.Models\obj\Debug\net7.0\Business.Models.AssemblyInfo.cs
+D:\Business Project Backend\Backend\Business.Models\obj\Debug\net7.0\Business.Models.csproj.CoreCompileInputs.cache
+D:\Business Project Backend\Backend\Business.Models\obj\Debug\net7.0\Business.Models.sourcelink.json
+D:\Business Project Backend\Backend\Business.Models\obj\Debug\net7.0\Business.Models.dll
+D:\Business Project Backend\Backend\Business.Models\obj\Debug\net7.0\refint\Business.Models.dll
+D:\Business Project Backend\Backend\Business.Models\obj\Debug\net7.0\Business.Models.pdb
+D:\Business Project Backend\Backend\Business.Models\obj\Debug\net7.0\ref\Business.Models.dll

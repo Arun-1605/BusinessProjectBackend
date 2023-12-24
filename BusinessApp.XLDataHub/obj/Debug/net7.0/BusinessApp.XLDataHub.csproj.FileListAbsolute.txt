@@ -10,3 +10,15 @@ F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLData
 F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\refint\BusinessApp.XLDataHub.dll
 F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.pdb
 F:\BusinessApplication\BusinessApp.XLDataHub\obj\Debug\net7.0\ref\BusinessApp.XLDataHub.dll
+D:\Business Project Backend\Backend\BusinessApp.XLDataHub\bin\Debug\net7.0\BusinessApp.XLDataHub.deps.json
+D:\Business Project Backend\Backend\BusinessApp.XLDataHub\bin\Debug\net7.0\BusinessApp.XLDataHub.dll
+D:\Business Project Backend\Backend\BusinessApp.XLDataHub\bin\Debug\net7.0\BusinessApp.XLDataHub.pdb
+D:\Business Project Backend\Backend\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Project Backend\Backend\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.AssemblyInfoInputs.cache
+D:\Business Project Backend\Backend\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.AssemblyInfo.cs
+D:\Business Project Backend\Backend\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.csproj.CoreCompileInputs.cache
+D:\Business Project Backend\Backend\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.sourcelink.json
+D:\Business Project Backend\Backend\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.dll
+D:\Business Project Backend\Backend\BusinessApp.XLDataHub\obj\Debug\net7.0\refint\BusinessApp.XLDataHub.dll
+D:\Business Project Backend\Backend\BusinessApp.XLDataHub\obj\Debug\net7.0\BusinessApp.XLDataHub.pdb
+D:\Business Project Backend\Backend\BusinessApp.XLDataHub\obj\Debug\net7.0\ref\BusinessApp.XLDataHub.dll

@@ -15,3 +15,21 @@ F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\refint\BusinessApp
 F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.pdb
 F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.genruntimeconfig.cache
 F:\BusinessApplication\BusinessApp.DbDataHub\obj\Debug\net7.0\ref\BusinessApp.DbDataHub.dll
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\bin\Debug\net7.0\BusinessApp.DbDataHub.deps.json
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\bin\Debug\net7.0\BusinessApp.DbDataHub.runtimeconfig.json
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\bin\Debug\net7.0\BusinessApp.DbDataHub.dll
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\bin\Debug\net7.0\BusinessApp.DbDataHub.pdb
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\bin\Debug\net7.0\Business.Models.dll
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\bin\Debug\net7.0\Business.Models.pdb
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.csproj.AssemblyReference.cache
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.AssemblyInfoInputs.cache
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.AssemblyInfo.cs
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.csproj.CoreCompileInputs.cache
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.sourcelink.json
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.csproj.CopyComplete
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.dll
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\obj\Debug\net7.0\refint\BusinessApp.DbDataHub.dll
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.pdb
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\obj\Debug\net7.0\BusinessApp.DbDataHub.genruntimeconfig.cache
+D:\Business Project Backend\Backend\BusinessApp.DbDataHub\obj\Debug\net7.0\ref\BusinessApp.DbDataHub.dll

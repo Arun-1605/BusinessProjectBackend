@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BusinessApp.DbDataHub.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20231207084817_s")]
-    partial class s
+    [Migration("20231216142943_a")]
+    partial class a
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

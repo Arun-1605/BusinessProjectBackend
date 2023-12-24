@@ -1,5 +1,4 @@
 ﻿using BusinessApp.DbDataHub.ApplicationDBContext;
-using BusinessApp.DbDataHub.Migrations;
 using BusinessApp.DbDataHub.Repositories.IRepositories;
 using System;
 using System.Collections.Generic;
@@ -18,10 +17,16 @@ namespace BusinessApp.DbDataHub.Repositories
 		{
 			_db= db;
 			BusinessCategory = new BusinessCategoryResitory(_db);
+			BusinessDetails = new BusinessDetailsRepository(_db);
+			Business = new BusinessRepository(_db);
 
 		}
 
 		public IBusinessCategoryRepository BusinessCategory { get; private set; }
+
+		public IBusinessDetailsRepository BusinessDetails { get; private set; }	
+
+		public IBusinessRepository Business { get; private set; }
 
 
 		public void Save()

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\BusinessApplication\\Backend\\Business.Models\\Business.Models.csproj": {}
+    "D:\\Business Project Backend\\Backend\\Business.Models\\Business.Models.csproj": {}
   },
   "projects": {
-    "F:\\BusinessApplication\\Backend\\Business.Models\\Business.Models.csproj": {
+    "D:\\Business Project Backend\\Backend\\Business.Models\\Business.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\BusinessApplication\\Backend\\Business.Models\\Business.Models.csproj",
+        "projectUniqueName": "D:\\Business Project Backend\\Backend\\Business.Models\\Business.Models.csproj",
         "projectName": "Business.Models",
-        "projectPath": "F:\\BusinessApplication\\Backend\\Business.Models\\Business.Models.csproj",
-        "packagesPath": "C:\\Users\\91805\\.nuget\\packages\\",
-        "outputPath": "F:\\BusinessApplication\\Backend\\Business.Models\\obj\\",
+        "projectPath": "D:\\Business Project Backend\\Backend\\Business.Models\\Business.Models.csproj",
+        "packagesPath": "C:\\Users\\Arun8\\.nuget\\packages\\",
+        "outputPath": "D:\\Business Project Backend\\Backend\\Business.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\91805\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arun8\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.114\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
